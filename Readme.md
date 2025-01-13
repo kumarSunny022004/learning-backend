@@ -1,0 +1,5 @@
+#chai or backend series 
+
+this is me learning the chai or backend with javascript
+
+-[Model link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTMyaXdMc1hhRko4VjZBbFdiQ0kzRlJsV3FpZ3xBQ3Jtc0trWVctVHFhVUQ3b1NfUDRfUnpLRTN5bm1NOFFpWWpPQzBEM2t5WEVDUDliQ0xjN1RPNkpXaHFwNEJabXk2MThkdFpwTFRiQVVtbzh1MDJrM2dVcXlHbTZPQnFkbE9MTGRSZHpMQnZwVHdhYW95NERTbw&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc)
